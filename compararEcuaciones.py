@@ -1,5 +1,5 @@
 # Before you run the code, clone the git repository for sympy
-# executing this commando line: git clone (https://github.com/sympy/sympy.git)
+# executing this commando line: (git clone https://github.com/sympy/sympy.git)
 
 from sympy import *
 
